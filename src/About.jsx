@@ -14,9 +14,9 @@ const About = () => {
               initial={{opacity:0,x:100}}
               transition={{duration:0.5}}
               className='flex justify-center items-center lg:justify-start'>
-                <p className='my-2 max-w-xl py-6 '>I am a dedicated and 
-                    versatile full stack developer with a passion for creating efficient and user-friendly web applications.  I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications.  I have worked with a variety of technologies, including React, Reduxjs, Asp.net, MsSql, PostgreSQL, and Firebase. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects., and
-                     contributing to open-source projects.</p>
+                <p className='my-2 max-w-xl py-6 '>  As a dedicated and versatile Full Stack Developer, I am passionate about crafting efficient, scalable, and user-centric web applications. My expertise spans a range of technologies, including React, Redux, ASP.NET, MS SQL, PostgreSQL, and Firebase. My journey into web development began with a deep-seated curiosity about technology and how it works, evolving into a dynamic career focused on continuous learning and adaptation to emerging challenges.
+
+I am committed to leveraging my technical skills to build innovative solutions, streamline processes, and enhance user experiences. I excel in collaborative environments, where I contribute to team success by tackling complex problems and delivering high-quality solutions. My approach combines rigorous problem-solving with a keen attention to detail, ensuring that projects meet both functional and aesthetic standards.</p>
               </motion.div>
             </div>
         </div>

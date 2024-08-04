@@ -34,7 +34,7 @@ const Hero = () => {
             animate="visible"
             className='my-2  text-xl max-w-xl  py-6 font-light tracking-tighter'>I am a passionate 15years old full stack developer with a knack for crafting robust and 
                 scalable web applications.  
-                I have honed my skills in front-end technologies like Reactjs, ReactNative,TypeScript, Redux and TaiwlindCss, as well as back-end technologies like Redis, Asp.Net, PostgreSQL, Xunit for testing,Mocking frameworks like Moq and NoSql Db like Firebase. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</motion.p>
+                I have honed my skills in front-end technologies like Reactjs, ReactNative,TypeScript, Redux and TaiwlindCss, as well as back-end technologies like Redis, Asp.Net, PostgreSQL, Xunit for testing,Docker for virtualization and NoSql Db like Firebase. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</motion.p>
          </div>
        </div>
        <div className='w-full lg:w-1/2 lg:p-8'>

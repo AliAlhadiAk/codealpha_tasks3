@@ -7,6 +7,7 @@ import { DiPostgresql } from 'react-icons/di';
 import { SiRedux } from 'react-icons/si';
 import { motion } from 'framer-motion';
 import { SiTailwindcss } from 'react-icons/si';
+import {DiDocker} from 'react-icons/di'
 
 
 
@@ -60,7 +61,7 @@ const Technologies = () => {
           variants={icon(1.5)}
           initial="initial"
           animate="animate"className='rounded-2xl border-4 border-neutral-800 p-4'>
-          <DiPostgresql  className='text-7xl text-sky-700 '/>
+          <DiDocker  className='text-7xl text-blue-700 '/>
         </motion.div>
         <motion.div 
           variants={icon(1.5)}
